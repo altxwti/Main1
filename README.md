@@ -1,4 +1,4 @@
-# TEST FAILE FOR GIT
+# TEST FILE FOR GIT
 
 ## Для запуска программы
 
